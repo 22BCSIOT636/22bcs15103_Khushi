@@ -37,12 +37,12 @@ npm start
 - **City Planners:** Improve urban planning with accurate visitor density data.
 
 ## 📈 Expected Outcomes
--**Predict and prevent overcrowding.**
--**Improve visitor experience and satisfaction.**
--**Enable better planning and decision-making through actionable insights.**
+- **Predict and prevent overcrowding.**
+- **Improve visitor experience and satisfaction.**
+- **Enable better planning and decision-making through actionable insights.**
 
 📧 Contact
-For any questions or suggestions, feel free to reach out at [22bcs15103@cuchd.in].
+For any questions or suggestions, feel free to reach out at [khush9651@gmail.com].
 Let me know if you'd like me to tweak anything further!
 
 
