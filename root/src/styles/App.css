@@ -1,0 +1,23 @@
+.outcomes {
+  text-align: left;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.outcomes h2 {
+  color: #4caf50;
+}
+
+.outcomes ul {
+  list-style: none;
+  padding: 0;
+}
+
+.outcomes li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.outcomes li strong {
+  color: #2196f3;
+}
