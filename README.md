@@ -41,9 +41,9 @@ npm start
 - **Improve visitor experience and satisfaction.**
 - **Enable better planning and decision-making through actionable insights.**
 
-📧 Contact
-For any questions or suggestions, feel free to reach out at [khush9651@gmail.com].
-Let me know if you'd like me to tweak anything further!
+## 📧 Contact
+**For any questions or suggestions, feel free to reach out at [khush9651@gmail.com].**
+**Let me know if you'd like me to tweak anything further!**
 
 
 
