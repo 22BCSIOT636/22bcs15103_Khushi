@@ -42,8 +42,8 @@ npm start
 - **Enable better planning and decision-making through actionable insights.**
 
 ## 📧 Contact
-**For any questions or suggestions, feel free to reach out at [khush9651@gmail.com].**
-**Let me know if you'd like me to tweak anything further!**
+- For any questions or suggestions, feel free to reach out at [22bcs15103@cuchd.in].
+- Let me know if you'd like me to tweak anything further!
 
 
 
