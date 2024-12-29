@@ -32,9 +32,9 @@ npm start
 ```
 
 ## 🌍 Use Case Scenarios
--**Tourism Boards:** Optimize visitor flow at popular destinations.
--**Event Organizers:** Plan events with effective crowd management.
--**City Planners:** Improve urban planning with accurate visitor density data.
+- **Tourism Boards:** Optimize visitor flow at popular destinations.
+- **Event Organizers:** Plan events with effective crowd management.
+- **City Planners:** Improve urban planning with accurate visitor density data.
 
 ## 📈 Expected Outcomes
 -**Predict and prevent overcrowding.**
